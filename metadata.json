@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Visualization of Sorting Algorithms",
+  "description": "An interactive educational platform visualizing and comparing classic sorting algorithms with step-by-step playback, heap tree view, and live complexity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
